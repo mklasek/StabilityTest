@@ -1,2 +1,4 @@
 # StabilityTest
-To find out if games possible
+C#, WinForms
+
+To determine current mood of the wifi modem
