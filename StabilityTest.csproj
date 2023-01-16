@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="M:\WORK RELATED\Projekty\C#\StabilityTest\StabilityTest\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="M:\WORK RELATED\Projekty\C#\StabilityTest\StabilityTest\.editorconfig" />
+  </ItemGroup>
+
+</Project>
